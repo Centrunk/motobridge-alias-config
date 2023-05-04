@@ -62,13 +62,13 @@ namespace motobridge_alias_config
 					var linesplit = line.Split(",");
 					val1 = linesplit[0];
 					val2 = linesplit[1];
-					output.Add("[" + val1 + "]");
+					output.Add("[" + val2 + "]");
 					i++;
-					output.Add("cN=" + val1);
+					output.Add("cN=" + val2);
 					i++;
 					output.Add("tID=0");
 					i++;
-					output.Add("ID=" + val2);
+					output.Add("ID=" + val1);
 					i++;
 				}
 				System.IO.TextWriter tw;
