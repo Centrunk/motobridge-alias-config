@@ -3,7 +3,6 @@ X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motob
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net7.0-windows\motobridge-alias-config.runtimeconfig.json
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net7.0-windows\motobridge-alias-config.dll
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net7.0-windows\motobridge-alias-config.pdb
-X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net7.0-windows\CsvHelper.dll
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.csproj.AssemblyReference.cache
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge_alias_config.Form1.resources
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.csproj.GenerateResource.cache
@@ -11,7 +10,6 @@ X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motob
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.AssemblyInfoInputs.cache
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.AssemblyInfo.cs
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.csproj.CoreCompileInputs.cache
-X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.csproj.CopyComplete
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.dll
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\refint\motobridge-alias-config.dll
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net7.0-windows\motobridge-alias-config.pdb

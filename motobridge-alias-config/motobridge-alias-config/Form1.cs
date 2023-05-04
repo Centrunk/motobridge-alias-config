@@ -3,7 +3,6 @@
 *   This program is distributed WITHOUT WARRANTY.
 */
 
-using CsvHelper;
 using System.IO;
 using System.Text;
 
