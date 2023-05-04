@@ -17,6 +17,7 @@ namespace motobridge_alias_config
 		}
 
 		private string path = "";
+		private string pathtg = "";
 		private string opath = "";
 		private string val1 = "";
 		private string val2 = "";
@@ -71,6 +72,28 @@ namespace motobridge_alias_config
 					output.Add("ID=" + val1);
 					i++;
 				}
+			}
+			if (checkBox1.Checked == true)
+			{
+				using (var fileStream = File.OpenRead(pathtg))
+				using (var streamReader = new StreamReader(fileStream, Encoding.UTF8, true, BufferSize))
+				{
+					string line;
+					while ((line = streamReader.ReadLine()) != null)
+					{
+						var linesplit = line.Split(",");
+						val1 = linesplit[0];
+						val2 = linesplit[1];
+						output.Add("[" + val2 + "]");
+						i++;
+						output.Add("cN=" + val2);
+						i++;
+						output.Add("cTG=0");
+						i++;
+						output.Add("tTG=" + val1);
+						i++;
+					}
+				}
 				System.IO.TextWriter tw;
 				tw = new StreamWriter(opath);
 				foreach (String s in output)
@@ -78,6 +101,9 @@ namespace motobridge_alias_config
 					tw.WriteLine(s);
 				}
 				tw.Close();
+				button7.ForeColor = Color.Green;
+				button7.BackColor = Color.Green;
+				label4.Text = "" + i;
 			}
 		}
 
@@ -87,6 +113,19 @@ namespace motobridge_alias_config
 			textBox2.Text = saveFileDialog1.FileName;
 			opath = saveFileDialog1.FileName;
 			saveFileDialog1.Dispose();
+		}
+
+		private void button6_Click(object sender, EventArgs e)
+		{
+			openFileDialog2.ShowDialog();
+			textBox3.Text = openFileDialog2.FileName;
+			pathtg = openFileDialog2.FileName;
+			//error handle
+			if (pathtg == "as2121ab")
+			{
+				path = "";
+				MessageBox.Show("Please select a valid file");
+			}
 		}
 	}
 }
