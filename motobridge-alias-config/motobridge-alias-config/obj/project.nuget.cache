@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qe13QiNQX8RNjJ0NqXKshifuVvpSig2YygQRNR8X++iwwGzvhAvvudXJfNibzJejVOGc1fvaAAzE8n3UgJet5g==",
+  "success": true,
+  "projectFilePath": "X:\\motobridge-alias-config\\motobridge-alias-config\\motobridge-alias-config\\motobridge-alias-config\\motobridge-alias-config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ceoco\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
