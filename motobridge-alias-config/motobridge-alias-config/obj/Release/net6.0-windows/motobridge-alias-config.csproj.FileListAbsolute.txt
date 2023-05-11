@@ -1,0 +1,17 @@
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net6.0-windows\motobridge-alias-config.exe
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net6.0-windows\motobridge-alias-config.deps.json
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net6.0-windows\motobridge-alias-config.runtimeconfig.json
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net6.0-windows\motobridge-alias-config.dll
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Release\net6.0-windows\motobridge-alias-config.pdb
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.csproj.AssemblyReference.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge_alias_config.Form1.resources
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.csproj.GenerateResource.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.GeneratedMSBuildEditorConfig.editorconfig
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.AssemblyInfoInputs.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.AssemblyInfo.cs
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.csproj.CoreCompileInputs.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.dll
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\refint\motobridge-alias-config.dll
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.pdb
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\motobridge-alias-config.genruntimeconfig.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net6.0-windows\ref\motobridge-alias-config.dll

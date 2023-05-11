@@ -93,17 +93,17 @@ namespace motobridge_alias_config
 						i++;
 					}
 				}
-				System.IO.TextWriter tw;
-				tw = new StreamWriter(opath);
-				foreach (String s in output)
-				{
-					tw.WriteLine(s);
-				}
-				tw.Close();
-				button7.ForeColor = Color.Green;
-				button7.BackColor = Color.Green;
-				label4.Text = "" + i;
 			}
+			System.IO.TextWriter tw;
+			tw = new StreamWriter(opath);
+			foreach (String s in output)
+			{
+				tw.WriteLine(s);
+			}
+			tw.Close();
+			button7.ForeColor = Color.Green;
+			button7.BackColor = Color.Green;
+			label4.Text = "" + i;
 		}
 
 		private void button5_Click(object sender, EventArgs e)

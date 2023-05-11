@@ -1,0 +1,7 @@
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge-alias-config.csproj.AssemblyReference.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge_alias_config.Form1.resources
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge-alias-config.csproj.GenerateResource.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge-alias-config.GeneratedMSBuildEditorConfig.editorconfig
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge-alias-config.AssemblyInfoInputs.cache
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge-alias-config.AssemblyInfo.cs
+X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Release\net5.0-windows\motobridge-alias-config.csproj.CoreCompileInputs.cache

@@ -15,5 +15,3 @@ X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motob
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Debug\net7.0-windows\motobridge-alias-config.pdb
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Debug\net7.0-windows\motobridge-alias-config.genruntimeconfig.cache
 X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Debug\net7.0-windows\ref\motobridge-alias-config.dll
-X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\bin\Debug\net7.0-windows\CsvHelper.dll
-X:\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\motobridge-alias-config\obj\Debug\net7.0-windows\motobridge-alias-config.csproj.CopyComplete
